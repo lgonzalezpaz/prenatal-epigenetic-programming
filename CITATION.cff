@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or its derived results, please cite the manuscript below."
+title: "A permanence window for prenatal epigenetic programming"
+abstract: >-
+  Analysis code reproducing the inducibility-retention decomposition of the
+  fetal epigenetic vulnerability window, its application to human fetal brain
+  methylomes, and the identifiability analysis of gestational critical windows.
+version: 1.0.0
+date-released: 2026-10-27
+license: MIT
+authors:
+  - family-names: "[SURNAME 1]"
+    given-names: "[GIVEN 1]"
+  - family-names: "[SURNAME 2]"
+    given-names: "[GIVEN 2]"
+  - family-names: "[SURNAME 3]"
+    given-names: "[GIVEN 3]"
+    email: lgonzalezpaz@gmail.com
+repository-code: "[GITHUB URL]"
+doi: "[ZENODO DOI]"
+keywords:
+  - DNA methylation
+  - fetal brain development
+  - critical window
+  - epigenetic inheritance
+  - distributed lag models
+  - identifiability

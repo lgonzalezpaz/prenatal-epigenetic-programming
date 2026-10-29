@@ -1,0 +1,13 @@
+name: permanence-window
+channels: [conda-forge]
+dependencies:
+  - python=3.13
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - python-docx
+  - tabulate
+  - curl
+  - unzip
+  - pip
